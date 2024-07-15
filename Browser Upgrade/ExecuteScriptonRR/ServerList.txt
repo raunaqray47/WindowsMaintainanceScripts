@@ -1,0 +1,12 @@
+WRPARCLT1000DIT.gad.schneider-electric.com
+WRPARCLT1001DIT.gad.schneider-electric.com
+WRPARCLT1002DIT.gad.schneider-electric.com
+WRPARCLT1003DIT.gad.schneider-electric.com
+WRPARCLT1004DIT.gad.schneider-electric.com
+WRPARCLT1005DIT.gad.schneider-electric.com
+WRPARCLT1006DIT.gad.schneider-electric.com
+WRPARCLT1007DIT.gad.schneider-electric.com
+WRPARCLT1008DIT.gad.schneider-electric.com
+WRPARCLT1009DIT.gad.schneider-electric.com
+WRPARCLT1010DIT.gad.schneider-electric.com
+WRPARCLT1011DIT.gad.schneider-electric.com
